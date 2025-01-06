@@ -14,7 +14,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbulls14&hide=jupyter%20notebook,procfile&layout=compact)
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bbulls14&theme=nord&radius=2)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bbulls14&theme=nord&radius=10&height=500)
 
 ### Projects Showcase
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bbulls14&repo=2-opt_travelling_salesman)
