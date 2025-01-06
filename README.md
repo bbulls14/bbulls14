@@ -8,7 +8,7 @@
  - 2 years of experience solving problems with software solutions
  -  Proficient in Python, Java, SQL
  - 📚 Lifetime Learner, fascinated by the numerous "black boxes" in tech
- - Main working philosophy: Discover and Document ![[obsidian-icon.svg|25x25]] 
+ - Main working philosophy: Discover and Document :Siobsidian:
 
 ### Repository Insights
 
