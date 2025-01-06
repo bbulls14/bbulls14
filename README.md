@@ -3,11 +3,11 @@
 - 🧩 Currently studying DSA through a Udemy series, seeking to improve foundational knowledge. 
 - Fun fact: Recently picked up neovim...stuck in a loop of refinement 🌀
 
-  ***A Brief Overview***
-  - 2 years of experience solving problems with software solutions
-  -  Proficient in Python, Java, SQL
-  - 📚 Lifetime Learner, fascinated by the numerous "black boxes" in tech
-  - Main working philosophy: Discover and Document ![[obsidian-icon.svg|25x25]] 
+  **A Brief Overview**
+ - 2 years of experience solving problems with software solutions
+ -  Proficient in Python, Java, SQL
+ - 📚 Lifetime Learner, fascinated by the numerous "black boxes" in tech
+ - Main working philosophy: Discover and Document ![[obsidian-icon.svg|25x25]] 
 
 ### Repository Insights
 
