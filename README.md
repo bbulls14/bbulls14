@@ -12,7 +12,7 @@
 
 ### Repository Insights
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbulls14&hide=jupyter%20notebook&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbulls14&hide=jupyter%20notebook,procfile&layout=compact)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bbulls14&theme=nord&radius=10)
 
