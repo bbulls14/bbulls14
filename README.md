@@ -1,6 +1,6 @@
 ### Hey There 👋
 
--  ♟️ At the moment, building a chess engine to practice the Alekhine defense with on Lichess
+-  ♟️ At the moment, building a chess engine to practice the Alekhine defense on Lichess
 - 🧩 Currently studying DSA through a Udemy series, seeking to improve foundational knowledge. 
 - Fun fact: Recently picked up neovim...stuck in a loop of refinement 🌀
 
