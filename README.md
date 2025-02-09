@@ -18,3 +18,5 @@
 ### Projects Showcase
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bbulls14&repo=2-opt_travelling_salesman)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bbulls14&repo=svd_book_recommender)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bbulls14&repo=chess_app)
+
